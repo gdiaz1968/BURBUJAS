@@ -1,3 +1,5 @@
+import React from 'react';
+
 import { useCallback, useEffect, useMemo, useState } from 'react';
 import {
   AlertCircle, ArrowLeft, Beaker, Check, ChevronRight, ClipboardList,

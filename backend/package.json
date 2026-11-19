@@ -1,15 +1,14 @@
-
 {
-  "name": "gomeria360-backend",
+  "name": "burbuja-backend",
   "version": "1.0.0",
-  "description": "Backend API del sistema GOMERIA360",
+  "description": "Backend API del sistema BURBUJA",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
     "dev": "nodemon server.js"
   },
   "keywords": [
-    "gomeria360",
+    "burbuja",
     "api",
     "express",
     "postgresql"
